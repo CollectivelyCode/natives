@@ -27,6 +27,9 @@ RADIO_15_MOTOWN (The Lowdown)
 RADIO_16_SILVERLAKE (The Lab)
 RADIO_17_FUNK (Space)
 RADIO_18_90S_ROCK (Vinewood Boulevard Radio)
+RADIO_20_THELAB (The Lab)
+RADIO_21_DLC_XM17 (Blonded Los Santos)
+RADIO_22_DLC_BATTLE_MIX1_RADIO (Los Santos Underground)
 ```
 
 ## Parameters
